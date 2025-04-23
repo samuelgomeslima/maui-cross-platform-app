@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cross-platform-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4382421e202b91dad05ce7008f40c297164a6a44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7cec63b3b0e7390e3086d2a7677ec94de16dc5cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("cross-platform-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cross-platform-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

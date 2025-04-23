@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app\\maui-cross-platform-app\\cross-platform-app\\cross-platform-app.csproj": {}
+    "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app-1\\cross-platform-app\\cross-platform-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app\\maui-cross-platform-app\\cross-platform-app\\cross-platform-app.csproj": {
+    "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app-1\\cross-platform-app\\cross-platform-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app\\maui-cross-platform-app\\cross-platform-app\\cross-platform-app.csproj",
+        "projectUniqueName": "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app-1\\cross-platform-app\\cross-platform-app.csproj",
         "projectName": "cross-platform-app",
-        "projectPath": "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app\\maui-cross-platform-app\\cross-platform-app\\cross-platform-app.csproj",
+        "projectPath": "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app-1\\cross-platform-app\\cross-platform-app.csproj",
         "packagesPath": "C:\\Users\\samuel.lima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app\\maui-cross-platform-app\\cross-platform-app\\obj\\",
+        "outputPath": "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app-1\\cross-platform-app\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app\\maui-cross-platform-app\\NuGet.Config",
+          "C:\\Users\\samuel.lima\\Desktop\\maui-cross-platform-app-1\\NuGet.Config",
           "C:\\Users\\samuel.lima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
